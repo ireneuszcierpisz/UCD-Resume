@@ -72,3 +72,34 @@ header {
     font-size: 14px;
     padding: 0;
 }
+
+.menuitem {
+    height: 120px;
+    text-align: center;
+    padding: 0;
+}
+
+.menuitem a {
+    height: 120px;
+    width: 100%;
+    color: #fff;
+    text-decoration: none;
+}
+
+.menuitem a i {
+    padding-top: 22px;
+    display: block;
+    font-size: 26px;
+    color: #fafafa;
+}
+
+.menuitem span {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding-top: 5px;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
